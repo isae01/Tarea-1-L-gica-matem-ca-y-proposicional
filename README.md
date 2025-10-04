@@ -47,4 +47,5 @@ La función recommendProduct recomienda productos basado en:
 - Genérico: Cualquier otro caso
 
 PDF TAREA COMPLETA PARTE 1 Y 2: 
-[Tarea #1 Lógica matemática y proposicional.pdf](https://github.com/user-attachments/files/22691413/Tarea.1.Logica.matematica.y.proposicional.pdf)
+[Tarea #1 Lógica matemática y proposicional (1).pdf](https://github.com/user-attachments/files/22700215/Tarea.1.Logica.matematica.y.proposicional.1.pdf)
+
