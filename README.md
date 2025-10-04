@@ -46,5 +46,5 @@ La función recommendProduct recomienda productos basado en:
 - Moda: No es miembro y ≥3 compras totales, O edad 25-40
 - Genérico: Cualquier otro caso
 
-PDF COMPLETO: 
+PDF TAREA COMPLETA PARTE 1 Y 2: 
 [Tarea #1 Lógica matemática y proposicional.pdf](https://github.com/user-attachments/files/22691413/Tarea.1.Logica.matematica.y.proposicional.pdf)
